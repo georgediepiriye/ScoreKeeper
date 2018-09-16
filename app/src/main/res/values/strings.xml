@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="utd_heading">MAN UTD</string>
+    <string name="vs">VS</string>
+    <string name="madrid_heading">MADRID</string>
+    <string name="utd_goal">0</string>
+    <string name="utd_foul">0</string>
+    <string name="utd_card">0</string>
+    <string name="utd_goal_button">UTD GOAL</string>
+    <string name="utd_foul_button">UTD FOUL</string>
+    <string name="utd_card_button">UTD CARD</string>
+    <string name="madrid_goal">0</string>
+    <string name="madrid_foul">0</string>
+    <string name="madrid_card">0</string>
+    <string name="madrid_goal_button">MADRID GOAL</string>
+    <string name="madrid_foul_button">MADRID FOUL</string>
+    <string name="madrid_card_button">MADRID CARD</string>
+    <string name="reset">RESET</string>
+</resources>
